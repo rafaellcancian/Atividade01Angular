@@ -1,4 +1,7 @@
-# Angular01
+# Atividade01Angular
+Repositório para a primeira atividade de Angular do Curso Capacitação Atos UFN 2021.
+
+## Angular01
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
