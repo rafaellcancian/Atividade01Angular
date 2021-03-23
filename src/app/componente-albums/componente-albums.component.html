@@ -1,0 +1,8 @@
+<h1>Álbuns:</h1>
+<hr>
+
+<div *ngFor="let a of albums">
+    <p>{{ a.id }} - {{ a.title }}</p>
+    <button type="submit" (click)="selecionar(a)">Selecionar</button>
+    <hr>
+</div>
